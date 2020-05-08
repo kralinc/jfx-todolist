@@ -1,0 +1,1 @@
+The program allows the creation of daily to-do lists in addition to regularly scheduled tasks. The process is done entirely through the GUI List Builder window.
